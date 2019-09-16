@@ -1,0 +1,1 @@
+# share-ami-to-accounts
